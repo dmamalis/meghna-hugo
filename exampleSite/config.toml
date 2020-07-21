@@ -22,11 +22,11 @@ weight = 2
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 6
+weight = 7
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 7
+weight = 6
 [[menu.main]]
 URL = "pricing"
 name = "pricing"

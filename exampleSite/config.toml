@@ -1,4 +1,4 @@
-baseURL = "https://compassionate-darwin-b59f6f.netlify.app/"
+baseURL = "http://examplesite.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
